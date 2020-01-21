@@ -1,0 +1,6 @@
+/root/RiderProjects/oop-mkovylin/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe
+/root/RiderProjects/oop-mkovylin/ConsoleApplication1/bin/Debug/ConsoleApplication1.pdb
+/root/RiderProjects/oop-mkovylin/ConsoleApplication1/obj/Debug/ConsoleApplication1.csprojAssemblyReference.cache
+/root/RiderProjects/oop-mkovylin/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.CoreCompileInputs.cache
+/root/RiderProjects/oop-mkovylin/ConsoleApplication1/obj/Debug/ConsoleApplication1.exe
+/root/RiderProjects/oop-mkovylin/ConsoleApplication1/obj/Debug/ConsoleApplication1.pdb
